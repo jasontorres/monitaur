@@ -7,6 +7,10 @@ Instructions
 -----------
 
     gem install monitaur
+
+on your Gemfile
+
+    gem 'monitaur'
     
 on your routes.rb file add "monitaur", for example
 
@@ -17,6 +21,7 @@ on your routes.rb file add "monitaur", for example
 then download the desktop client and add your site. Start *monitauring* your Rails 3 apps now!
 
 Desktop Client
+-----------
 
 Source
     https://github.com/jasontorres/monitaur-desktop

@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Jason Torres"]
   s.email       = ["jason@proudcloud.net"]
-  s.homepage    = "http:/www.monitaurapp.com"
+  s.homepage    = "http://github.com/jasontorres/monitaur"
   s.summary     = %q{Rails 3 Website Monitoring Tool}
-  s.description = %q{Monitaur monitors your website from your local desktop client.}
+  s.description = %q{Monitaur monitors your website from your desktop.}
 
   s.rubyforge_project = "monitaur"
 

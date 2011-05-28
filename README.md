@@ -16,6 +16,15 @@ on your routes.rb file add "monitaur", for example
 
 then download the desktop client and add your site. Start *monitauring* your Rails 3 apps now!
 
+Desktop Client
+
+Source
+    https://github.com/jasontorres/monitaur-desktop
+
+Latest Download Build
+    http://api.appcelerator.net/p/pages/app_page?token=P4rHamg5
+        
+
 Customization
 -----------
 
